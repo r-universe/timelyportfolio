@@ -3,3 +3,27 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "d3r"]
+	path = d3r
+	url = https://github.com/timelyportfolio/d3r
+	shallow = true
+[submodule "leaftime"]
+	path = leaftime
+	url = https://github.com/timelyportfolio/leaftime
+	shallow = true
+[submodule "listviewer"]
+	path = listviewer
+	url = https://github.com/timelyportfolio/listviewer
+	shallow = true
+[submodule "parcoords"]
+	path = parcoords
+	url = https://github.com/timelyportfolio/parcoords
+	shallow = true
+[submodule "sunburstR"]
+	path = sunburstR
+	url = https://github.com/timelyportfolio/sunburstr
+	shallow = true
+[submodule "svgPanZoom"]
+	path = svgPanZoom
+	url = https://github.com/timelyportfolio/svgpanzoom
+	shallow = true
