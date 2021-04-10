@@ -7,23 +7,29 @@
 	path = d3r
 	url = https://github.com/timelyportfolio/d3r
 	shallow = true
+	registered = true
 [submodule "leaftime"]
 	path = leaftime
 	url = https://github.com/timelyportfolio/leaftime
 	shallow = true
+	registered = true
 [submodule "listviewer"]
 	path = listviewer
 	url = https://github.com/timelyportfolio/listviewer
 	shallow = true
+	registered = true
 [submodule "parcoords"]
 	path = parcoords
 	url = https://github.com/timelyportfolio/parcoords
 	shallow = true
+	registered = true
 [submodule "sunburstR"]
 	path = sunburstR
 	url = https://github.com/timelyportfolio/sunburstr
 	shallow = true
+	registered = true
 [submodule "svgPanZoom"]
 	path = svgPanZoom
 	url = https://github.com/timelyportfolio/svgpanzoom
 	shallow = true
+	registered = true
