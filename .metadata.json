@@ -1,0 +1,26 @@
+[
+  {
+    "package": "d3r",
+    "oncran": true
+  },
+  {
+    "package": "leaftime",
+    "oncran": true
+  },
+  {
+    "package": "listviewer",
+    "oncran": true
+  },
+  {
+    "package": "parcoords",
+    "oncran": true
+  },
+  {
+    "package": "sunburstR",
+    "oncran": true
+  },
+  {
+    "package": "svgPanZoom",
+    "oncran": true
+  }
+]
