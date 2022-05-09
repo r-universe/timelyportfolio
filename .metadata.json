@@ -12,8 +12,7 @@
     "oncran": true
   },
   {
-    "package": "parcoords",
-    "oncran": true
+    "package": "parcoords"
   },
   {
     "package": "sunburstR",
