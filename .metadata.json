@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "parcoords"
-  },
-  {
     "package": "sunburstR",
     "oncran": true
   },

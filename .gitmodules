@@ -18,11 +18,6 @@
 	url = https://github.com/timelyportfolio/listviewer
 	shallow = true
 	registered = true
-[submodule "parcoords"]
-	path = parcoords
-	url = https://github.com/timelyportfolio/parcoords
-	shallow = true
-	registered = true
 [submodule "sunburstR"]
 	path = sunburstR
 	url = https://github.com/timelyportfolio/sunburstr
