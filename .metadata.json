@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "listviewer",
-    "oncran": true
-  },
-  {
     "package": "sunburstR",
     "oncran": true
   },
