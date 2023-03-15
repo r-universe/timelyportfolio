@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "leaftime",
-    "oncran": true
-  },
-  {
     "package": "listviewer",
     "oncran": true
   },
@@ -17,6 +13,10 @@
   },
   {
     "package": "svgPanZoom",
+    "oncran": true
+  },
+  {
+    "package": "leaftime",
     "oncran": true
   }
 ]

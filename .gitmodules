@@ -8,11 +8,6 @@
 	url = https://github.com/timelyportfolio/d3r
 	shallow = true
 	registered = true
-[submodule "leaftime"]
-	path = leaftime
-	url = https://github.com/timelyportfolio/leaftime
-	shallow = true
-	registered = true
 [submodule "listviewer"]
 	path = listviewer
 	url = https://github.com/timelyportfolio/listviewer
@@ -26,5 +21,10 @@
 [submodule "svgPanZoom"]
 	path = svgPanZoom
 	url = https://github.com/timelyportfolio/svgpanzoom
+	shallow = true
+	registered = true
+[submodule "leaftime"]
+	path = leaftime
+	url = https://github.com/timelyportfolio/leaftime
 	shallow = true
 	registered = true
