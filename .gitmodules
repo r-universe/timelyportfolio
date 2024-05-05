@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/timelyportfolio/timelyportfolio.r-universe.dev
 	branch = HEAD
+[submodule "curl"]
+	path = curl
+	url = https://github.com/timelyportfolio/curl
+	branch = master
 [submodule "d3r"]
 	path = d3r
 	url = https://github.com/timelyportfolio/d3r
